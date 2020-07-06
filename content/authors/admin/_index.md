@@ -8,7 +8,7 @@ authors:
   - admin
 title: Oriol J. Bosch
 role: "PhD Candidate "
-avatar_filename: profile-pic-2-.png
+avatar_filename: whatsapp-image-2020-06-12-at-16.34.37.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
