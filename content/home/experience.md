@@ -18,27 +18,47 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Researcher"
+  company = "Research and Expertise Centre for Survey Methodology, Universitat Pompeu Fabra"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Barcelona, Spain"
+  date_start = "07-01-2017"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Analyse and report the measurement quality of the European Social Survey
+  * Design and field surveys and survey experiments
+  * Conduct statistical analyses
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Researcher Officer"
+  company = "Institute for Social and Economics Reseaerch (ISER), University of Essex"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Colchester, UK"
+  date_start = "01-10-2018"
+  date_end = "01-09-2019"
+  description = """
+  Responsibilities include:
+  
+  * Analyse and report the sampling design of the European Social Survey
+  * Create and mantain databases
+  * Develop and test a longitudinal survey of people in debt in UK for the Money Advice Service
+  """
+
+[[experience]]
+  title = "Junior Researcher"
+  company = "Research and Expertise Centre for Survey Methodology, Universitat Pompeu Fabra"
+  company_url = ""
+  location = "Barcelona, Spain"
+  date_start = "01-10-2016"
+  date_end = "01-07-2017"
+  description = """
+  Responsibilities include:
+  
+  * Design and field surveys
+  * Conduct statistical analyses
+  * Prepare and present presentations for international conferences
 
 +++
