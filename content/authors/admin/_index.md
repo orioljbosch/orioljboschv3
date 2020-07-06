@@ -31,13 +31,13 @@ education:
   courses:
     - course: PhD in Social Research Methods
       institution: The London School of Economics
-      year: ""
+      year: 2023
     - course: MSc in Survey Methods for Social Research
       institution: University of Essex
       year: 2019
     - course: BSc in Political and Administration Sciences
       institution: Pompeu Fabra University
-      year: 2000
+      year: 2017
 email: o.bosch-jover@lse.ac.uk
 user_groups:
   - Researchers
